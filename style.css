@@ -1,0 +1,32 @@
+h1 {
+    font-size: 111px;
+    color: rgb(0, 238, 255);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin: auto;
+}
+.stred {
+    text-align: center;
+    margin: auto;
+}
+button {
+    background-color: rgb(90, 20, 240);
+    color: white;
+    border: none;
+    padding: 15px 25px;
+    cursor: pointer;
+    margin: 3px 3px 3px 3px;
+    border-radius: 20px;
+    font-size: 20px;
+    transition: 0.5s;
+}
+button:hover {
+    background-color: rgb(120, 80, 255);
+    box-shadow: 3px 8px 16px 0 rgba(0,0,0,0.3), 5px 10px 20px 0 rgba(0,0,0,0.3);
+}
+.panel {
+    padding: 10px 10px;
+    text-align: center;
+    margin: auto;
+    background-color: rgb(0, 0, 0, 0.5);
+}
